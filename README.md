@@ -1,0 +1,2 @@
+- This calculator was created with the most basic codes.
+- Do not forget to try the application and contribute.
